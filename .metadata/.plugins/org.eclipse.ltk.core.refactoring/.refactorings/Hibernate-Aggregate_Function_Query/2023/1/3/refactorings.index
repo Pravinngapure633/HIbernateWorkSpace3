@@ -1,0 +1,7 @@
+1674035913207	Rename package 'com.model.Hibernate_Aggregate_Function_Query'
+1674037196637	Extract method 'saveData'
+1674038297859	Extract method 'MinimumMark'
+1674039734941	Extract method 'max'
+1674039989375	Extract method 'sum'
+1674040167570	Extract method 'avg'
+1674113496380	Extract method 'count'

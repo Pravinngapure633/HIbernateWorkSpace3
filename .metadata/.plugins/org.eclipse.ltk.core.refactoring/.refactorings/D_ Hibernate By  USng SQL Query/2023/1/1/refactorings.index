@@ -1,0 +1,7 @@
+1672648498084	Extract method 'saveData'
+1672649166553	Extract method 'getAllData'
+1672649625037	Extract method 'getSingleData'
+1672650102427	Extract method 'deleteSingleData'
+1672650880401	Extract method 'updateData'
+1672651465353	Extract method 'insertNewData'
+1672657526805	Extract method 'deleteAll'

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;public static void saveData(SessionFactory factory)&apos; from &apos;com.admin.Test.main(...)&apos; to &apos;com.admin.Test&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_Cache_Mechanisam&apos;&#x0D;&#x0A;- Method name: &apos;saveData&apos;&#x0D;&#x0A;- Destination type: &apos;com.admin.Test&apos;&#x0D;&#x0A;- Declared visibility: &apos;public&apos;" comments="false" description="Extract method &apos;saveData&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.admin{Test.java" name="saveData" replace="false" selection="292 274" stamp="1673079056154" version="1.0" visibility="1"/>
+</session>

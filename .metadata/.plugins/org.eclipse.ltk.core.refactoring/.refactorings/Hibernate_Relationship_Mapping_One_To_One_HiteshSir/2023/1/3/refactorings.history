@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HibernateUtil.java&apos; to &apos;Hibernate-Relationship_mapping_ManyToMany/src/main/java/com.dbutil&apos;&#x0D;&#x0A;- Original project: &apos;Hibernate_Relationship_Mapping_One_To_One_HiteshSir&apos;&#x0D;&#x0A;- Destination element: &apos;Hibernate-Relationship_mapping_ManyToMany/src/main/java/com.dbutil&apos;&#x0D;&#x0A;- Original element: &apos;com.dbutil.unidirectionl.HibernateUtil.java&apos;" description="Copy compilation unit" destination="=Hibernate-Relationship_mapping_ManyToMany/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dbutil" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.dbutil.unidirectionl{HibernateUtil.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1673934873642" units="1" version="1.0"/>
+</session>
